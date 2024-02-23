@@ -1,6 +1,9 @@
 # challengeone-encriptador-adrian
-Primer challenge Alura
-Este es el primer desafio que que solicitaron y funciona de la siguiente manera:
-escribe tu texto y lo encriptas, en el lado derecho aparecera tu texto encriptado
-en la parte inferior puedes copiar dicho texto
-si copias y pegas el texto y seleccionas la opcion desencriptar podras vez tu texto desencriptado
+<h1>Primer challenge Alura</h1>
+Este es el primer desafio que  solicitaron y funciona de la siguiente manera:
+
+- Escribe tu texto y selecionas 
+```encriptar```, en el lado derecho aparecera tu texto encriptado
+
+- En la parte inferior puedes copiar dicho texto
+- Si copias y pegas el texto y seleccionas la opcion ```desencriptar``` podras vez tu texto desencriptado
